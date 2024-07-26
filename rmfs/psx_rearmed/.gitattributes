@@ -1,0 +1,7 @@
+(Disc filter=lfs diff=lfs merge=lfs -text
+1).bin filter=lfs diff=lfs merge=lfs -text
+Metal filter=lfs diff=lfs merge=lfs -text
+Gear filter=lfs diff=lfs merge=lfs -text
+Solid filter=lfs diff=lfs merge=lfs -text
+(USA) filter=lfs diff=lfs merge=lfs -text
+Metal[[:space:]]Gear[[:space:]]Solid[[:space:]](USA)[[:space:]](Disc[[:space:]]1).bin filter=lfs diff=lfs merge=lfs -text
